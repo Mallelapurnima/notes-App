@@ -1,0 +1,1 @@
+module.exports.info='info from file5'
